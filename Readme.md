@@ -45,6 +45,7 @@
   1. 安装`pnpm`: `npm install -g pnpm`
   2. 打开终端输入`pnpm install`
   3. 打开终端输入`pnpm install`
+  4. 打开终端输入`pnpm install`
 
 * 调试 main 进程：
   1. <kbd>Ctrl</kbd>/<kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 呼出命令面板
